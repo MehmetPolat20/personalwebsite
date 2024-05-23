@@ -1,5 +1,5 @@
 Kişisel Web Sitem
-Kişisel web siteme hoş geldiniz! Bu proje, profesyonel yolculuğumu, becerilerimi, projelerimi, blog yazılarımı sergilemek ve ziyaretçilerin benimle iletişime geçmelerini sağlamak için tasarlanmıştır. Profesyonel ve görsel olarak çekici bir portföy oluşturmayı amaçlayan kapsamlı bir online varlık merkezi olarak hizmet vermektedir.
+Kişisel web siteme hoş geldiniz! Bu proje, profesyonel yolculuğumu, becerilerimi, projelerimi sergilemek ve ziyaretçilerin benimle iletişime geçmelerini sağlamak için tasarlanmıştır. Profesyonel ve görsel olarak çekici bir portföy oluşturmayı amaçlayan kapsamlı bir online varlık merkezi olarak hizmet vermektedir.
 
 Hakkında
 Bu web sitesi, benim kişisel portföyüm olarak hizmet veriyor ve eğitimim, başarılarım ve ilgi alanlarım hakkında detaylı bir genel bakış sunuyor. Amacım, yeteneklerimi ve deneyimlerimi etkili bir şekilde ileten profesyonel ve görsel olarak çekici bir online varlık yaratmaktır. Ziyaretçiler burada eğitimim, iş deneyimim, üzerinde çalıştığım projeler hakkında bilgi edinebilir ve blog yazılarımı okuyabilir.
